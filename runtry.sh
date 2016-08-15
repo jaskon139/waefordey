@@ -1,4 +1,4 @@
-cd /c/msftpserver
+cd /c/msftpsrvr
 git clone git@github.com:jaskon139/waefordey2.git
 git clone git@github.com:jaskon139/waefordey5.git
 git clone git@github.com:jaskon139/waefordey6.git
